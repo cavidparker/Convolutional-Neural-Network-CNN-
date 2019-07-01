@@ -11,3 +11,5 @@ To inisialize our Neural Network
 - use it for the frist layer,2D use it for images and 3D use it for Videos
 ### MaxPooling 2D:
 - that make out pooling layer, normally we use 2*2 matrix because we don't want to lose any data.
+### Flatten :
+- convert all the pool feature map into the large feature vector that will be our fully connected layed
