@@ -13,3 +13,5 @@ To inisialize our Neural Network
 - that make out pooling layer, normally we use 2*2 matrix because we don't want to lose any data.
 ### Flatten :
 - convert all the pool feature map into the large feature vector that will be our fully connected layed
+### Dense :
+- Add the fully connected layers in a classic ANN
