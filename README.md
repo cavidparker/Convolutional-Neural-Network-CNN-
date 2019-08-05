@@ -16,4 +16,4 @@ To inisialize our Neural Network
 ### Flatten :
 - convert all the pool feature map into the large feature vector that will be our fully connected layed
 ### Dense :
-- Add the fully connected layers in a classic ANN.
+- Add the fully connected layers in a classic ANN.....
