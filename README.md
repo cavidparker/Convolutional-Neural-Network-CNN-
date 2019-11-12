@@ -3,9 +3,9 @@ A convolutional neural network (CNN) is a type of artificial neural network used
 CNNs are powerful image processing, artificial intelligence (AI) that use deep learning to perform both generative and descriptive tasks, often using machine vison that includes image and video recognition, along with recommender systems and natural language processing (NLP).
 
 ## Step -1 : Convolution :
-## Step -2 : Max pooling
-## Step -3 : Flattening
-## Step -4 : Full Connection
+## Step -2 : Max pooling:
+## Step -3 : Flattening:
+## Step -4 : Full Connection:
 
 ### from keras.models import Sequential :
 To inisialize our Neural Network
